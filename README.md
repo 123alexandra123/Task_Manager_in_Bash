@@ -36,18 +36,18 @@
 
 ## 📂 Project Structure
 
-Task_Manager_in_Bash
-├── afisare_fisiere_user_dimensiune.sh
-├── ajutor.sh
-├── cautare_fisiere.sh
-├── configurare_stergere_periodica.sh
-├── contor_tip_fisier.sh 
-├── editare_fisiere.sh 
-├── elimin_linii_duplicate_telefon.sh 
-├── inlocuire_vechi_nou.sh 
-├── main.sh 
-├── mutare_fisiere_in_cloud.sh
-├──out.log
-├──permisiuni_json.sh
-├──redenumire_fisiere.sh
-├──stergere_fisiere.sh
+Task_Manager_in_Bash <br>
+`├── afisare_fisiere_user_dimensiune.sh` <br>
+`├── ajutor.sh` <br>
+`├── cautare_fisiere.sh` <br>
+`├── configurare_stergere_periodica.sh` <br>
+`├── contor_tip_fisier.sh` <br>
+`├── editare_fisiere.sh` <br>
+`├── elimin_linii_duplicate_telefon.sh` <br>
+`├── inlocuire_vechi_nou.sh` <br>
+`├── main.sh` <br>
+`├── mutare_fisiere_in_cloud.sh` <br>
+`├──out.log` <br>
+`├──permisiuni_json.sh` <br>
+`├──redenumire_fisiere.sh` <br>
+`├──stergere_fisiere.sh` <br>
