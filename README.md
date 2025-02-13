@@ -1,4 +1,4 @@
-# TaskManager_B
+# Task_Manager_in_Bash
 
 ## 📜 Descriere
 
