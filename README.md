@@ -12,7 +12,7 @@
 
 - `afisare_fisiere_user_dimensiune.sh` – Displays files owned by a user along with their sizes.
 - `cautare_fisiere.sh` – Searches for files based on user-defined criteria.
-- `mutare_fisiere_in_cloud.sh` – Moves files to cloud storage (Git Hub)
+- `mutare_fisiere_in_cloud.sh` – Moves files to cloud storage (GitHub)
 - `editare_fisiere.sh` – Allows modification of files directly from the terminal.
 - `redenumire_fisiere.sh` – Renames a file.
 - `stergere fisiere.sh` - Deletes files.
